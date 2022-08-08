@@ -1,0 +1,23 @@
+{
+  "name": "@rray/oauth2",
+  "version": "1.0.0",
+  "description": "A very simple OAuth2 implementation",
+  "engines": {
+    "node": ">=16.9.0"
+  },
+  "type": "module",
+  "main": "index.mjs",
+  "files": [
+    "index.mjs",
+    "providers.mjs",
+    "oauth2.mjs"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Nikita Skovoroda",
+  "license": "MIT"
+}
