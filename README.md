@@ -11,7 +11,7 @@ It can be polyfilled with `node-fetch`, for example.
 ## Usage
 
 ```js
-import { OAuth2 } from './oauth2.mjs'
+import { OAuth2 } from '@rray/oauth2'
 
 // provides { full_auth_url, async auth(code) }
 const oauth = OAuth2('google', { g_client_id, g_client_secret, g_redirect_uri })
