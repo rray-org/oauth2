@@ -1,5 +1,7 @@
 # `@rray/oauth2`
 
+[![npm](https://img.shields.io/npm/v/@rray/oauth2)](https://www.npmjs.com/package/@rray/oauth2)
+
 A very simple OAuth2 implementation
 
 ## Global `fetch` expectation
